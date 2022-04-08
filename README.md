@@ -1,5 +1,5 @@
-### Hi there, my name is Taras Leontev👋
-# I am a first year cs student at itmo university
+# Hi there, my name is Taras Leontev👋
+### I am a first year cs student at itmo university
 
 - 🌱 I’m currently learning c++ and clojure
 - 📫 How to reach me: [Telegram](https://t.me/waylo1), leonteeme@gmail.com
