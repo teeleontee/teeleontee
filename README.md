@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Open source projects 
 - 💬 Ask me about anything
 
-![28e787e552579736beff3b0d9b429173](https://user-images.githubusercontent.com/84567804/162518444-ee451e59-f831-4d2e-84bd-eade11dd5e4d.jpg)
+![Sa-F_Tr6g90](https://user-images.githubusercontent.com/84567804/162518941-2e9196e5-a529-481f-9bbc-57ad880d27db.jpg)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=teeleontee&show_icons=true)  
 
