@@ -1,7 +1,7 @@
 # Hi there, my name is Taras Leontev👋
 ### I am a first year cs student at itmo university
 
-- 🌱 I’m currently learning c++ and clojure
+- 🌱 I’m currently learning c++
 - 📫 How to reach me: [Telegram](https://t.me/waylo1), leonteeme@gmail.com
 - 👯 I’m looking to collaborate on Open source projects 
 - 💬 Ask me about anything
