@@ -1,7 +1,6 @@
 # Hi there, my name is Taras Leontev👋
 ### I am a second year cs student at itmo university
 
-- 🌱 I’m currently learning kotlin
 - 📫 How to reach me: [Telegram](https://t.me/waylo1), leonteeme@gmail.com
 - 💬 Ask me about anything
 
