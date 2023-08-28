@@ -1,5 +1,5 @@
 # Hi there, my name is Taras Leontev👋
-### I am a second year cs student at itmo university
+### I am a third year cs student at itmo university
 
 - 📫 How to reach me: [Telegram](https://t.me/waylorun), leontyevts@gmail.com
 - 💬 Ask me about anything
